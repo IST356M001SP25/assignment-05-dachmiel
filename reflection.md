@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Daniel Chmielewski
+Sudent Email:  dachmiel@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,6 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+Working on the pandaslib file allowed me to get more comfortable manipulating strings using built-in functions. The extraction portion helped me gain experience reading from and writing to CSV files. The transformation step was the most involved and helped me become much more familiar with creating new columns to join dataframes. I also learned how to build pivot tables based on transformed data, which helped develop my data manipulation skills.
+
+I struggled the most with the load step and setting up the bucket correctly. I ended up having to rely on the provided solution code, as I wasn’t quite sure how to approach it myself.
